@@ -1,0 +1,31 @@
+p{
+    font-family: Roboto, arial;
+    margin-top: 0;
+    margin-bottom: 0;
+    cursor: pointer;
+}
+
+body {
+    background-color: #181818;
+    color: #FFFFFF;
+    font-family: Arial, sans-serif;
+}
+
+a {
+    color: #1e90ff;
+}
+
+button {
+    background-color: #282828;
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 0;
+}
+
+input, textarea {
+    background-color: #282828;
+    color: #FFFFFF;
+    border: 1px solid #444;
+}
